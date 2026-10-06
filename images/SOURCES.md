@@ -10,6 +10,7 @@ Product-reference images downloaded from the sources below.
 - `signal-generator-fg-1302.jpg`: [Voltcraft FG-1302 - Conrad](https://www.conrad.nl/nl/p/voltcraft-fg-1302-functiegenerator-1-hz-30-mhz-2-kanaals-arbitrair-2616564.html)
 - `solder-tip-cleaner-hakko-599b.jpg`: [Hakko 599B Tip Cleaner - Hakko USA](https://hakkousa.com/599b-tip-cleaner.html)
 - `soldering-iron-fx-951.jpg`: [Hakko FX-951 Soldering Station - Hakko USA](https://hakkousa.com/products/fx-951-soldering-station.html). Used for both the soldering-stations group and the iron entry.
+- `solder-dispenser-weller-sd1000.jpg`: [SD1000 Solder Dispenser - Weller Tools](https://www.weller-tools.com/us/en/industrial-soldering/products/soldering-wire/sd1000)
 - `refillable-flux-pen.jpg`: [Refillable Flux Pen - PCB Soldering](https://www.pcb-soldering.co.uk/products/refillable-flux-pen-medium-tip)
 - `third-hand-omnifixo.png`: [Omnifixo Makers Third Hand](https://omnifixo.com/en-gb/products/omnifixo-m4-makers-third-hand)
 - `heat-proof-brazing-mat.jpg`: [Woven Glass Fibre Soldering Mat - Cromwell](https://www.cromwell.co.uk/shop/welding-brazing-and-soldering/soldering-iron-tips-and-accessories/woven-glass-fibre-soldering-mat/f/6260)

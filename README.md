@@ -83,6 +83,9 @@ On each bench there is:
 #### Soldering Iron (Hakko FX-951)
 <img src="images/soldering-iron-fx-951.webp" alt="Soldering Iron (Hakko FX-951)" width="499">
 
+#### Solder Dispenser (Weller) with Lead-Free Solder (0.7 or 1.2mm2 gauge)
+<img src="images/solder-dispenser-weller-sd1000.jpg" alt="Solder Dispenser (Weller)" width="480">
+
 Also may have:
 
 #### Hot-Air Reflow Station (Hakko FR-810B)
@@ -198,7 +201,7 @@ A multimeter measures electrical properties such as voltage, current, resistance
 3. Test the splice: press the Ω key again to select continuity. Confirm the continuity or buzzer symbol near the bottom of the display, then touch one probe to the exposed copper at each free wire end. A beep indicates a continuous path through the splice.
 4. When finished, switch off the multimeter and return the test leads to their holder.
 
-### 4. Energising Activity
+## 4. Energising Activity
 
 Energising means applying electrical power to a load. In this activity, use the bench power supply to light a red LED connected in series with a 220 Ω current-limiting resistor. A red LED typically drops about 2 V; the resistor limits its current and protects it from damage.
 
@@ -210,13 +213,13 @@ Energising means applying electrical power to a load. In this activity, use the 
 
 ### Energising Procedure
 
-1. Leave the crocodile clips disconnected from the LED. Switch on the supply using the POWER rocker, then turn the voltage and current controls fully to zero.
+1. Switch on the supply using the switch, then turn the voltage and current controls fully to zero.
 2. Insert the supply leads into the front red (+) and black (-) output terminals.
 3. Connect the red crocodile clip through the 220 Ω resistor to the LED's longer leg (anode). Connect the LED's shorter leg (cathode, marked by the flat edge of its body) to the black crocodile clip. Keep the clips from touching each other.
 4. Set the voltage control first to about 3 V, leaving the current control at zero.
 5. Raise the current control to its lowest non-zero setting (100 mA). The series resistor limits the actual LED current to about 5 mA, so the 100 mA limit is not the LED's operating current.
 6. The LED should light. Do not leave it powered unattended.
-7. When finished, turn both controls to zero, switch off the supply using the POWER rocker, then disconnect the LED and supply leads.
+7. When finished, turn both controls to zero, switch off the supply using the switch, then disconnect the LED and supply leads.
 
 
 
