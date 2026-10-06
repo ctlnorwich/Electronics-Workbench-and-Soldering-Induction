@@ -52,48 +52,47 @@ If so you won't be able to solder today.
 On each bench there is:
 
 #### Overhead light
-![Overhead light](images/overhead-light.jpg)
+<img src="images/overhead-light.jpg" alt="Overhead light" width="1000">
 
 #### Magnification lens and spot light
-![Magnification lens and spot light](images/magnification-lens-spot-light.jpg)
+<img src="images/magnification-lens-spot-light.jpg" alt="Magnification lens and spot light" width="284">
 
 #### Bench Multimeter (Voltcraft VC-7055BT)
-![Bench Multimeter (Voltcraft VC-7055BT)](images/bench-multimeter-vc-7055bt.jpg)
+<img src="images/bench-multimeter-vc-7055bt.jpg" alt="Bench Multimeter (Voltcraft VC-7055BT)" width="240">
 
 #### Oscilloscope (Voltcraft DSO-1102D)
-![Oscilloscope (Voltcraft DSO-1102D)](images/oscilloscope-dso-1102d.jpg)
+<img src="images/oscilloscope-dso-1102d.jpg" alt="Oscilloscope (Voltcraft DSO-1102D)" width="240">
 
 #### Bench Power Supply (Voltcraft PPS-13610)
-![Bench Power Supply (Voltcraft PPS-13610)](images/bench-power-supply-pps-13610.jpg)
+<img src="images/bench-power-supply-pps-13610.jpg" alt="Bench Power Supply (Voltcraft PPS-13610)" width="240">
 
 #### Signal Generator (Voltcraft FG-1302)
-![Signal Generator (Voltcraft FG-1302)](images/signal-generator-fg-1302.jpg)
+<img src="images/signal-generator-fg-1302.jpg" alt="Signal Generator (Voltcraft FG-1302)" width="240">
 
 #### Wire solder tip cleaner (Hakko 599B)
-![Wire solder tip cleaner (Hakko 599B)](images/solder-tip-cleaner-hakko-599b.jpg)
+<img src="images/solder-tip-cleaner-hakko-599b.jpg" alt="Wire solder tip cleaner (Hakko 599B)" width="350">
 
-#### 2 soldering stations
-![2 soldering stations](images/soldering-iron-fx-951.jpg)
+### On each of the 2 soldering stations:
 
 #### Refillable Flux Pen
-![Refillable Flux Pen](images/refillable-flux-pen.jpg)
+<img src="images/refillable-flux-pen.jpg" alt="Refillable Flux Pen" width="450">
 
 #### Third Hand (Omnifixo)
-![Third Hand (Omnifixo)](images/third-hand-omnifixo.png)
+<img src="images/third-hand-omnifixo.png" alt="Third Hand (Omnifixo)" width="495">
 
 #### Glass-fibre Heat-proof brazing mat
-![Glass-fibre Heat-proof brazing mat](images/heat-proof-brazing-mat.jpg)
+<img src="images/heat-proof-brazing-mat.jpg" alt="Glass-fibre Heat-proof brazing mat" width="427">
 
 #### Soldering Iron (Hakko FX-951)
-![Soldering Iron (Hakko FX-951)](images/soldering-iron-fx-951.jpg)
+<img src="images/soldering-iron-fx-951.webp" alt="Soldering Iron (Hakko FX-951)" width="499">
 
 Also may have:
 
 #### Hot-Air Reflow Station (Hakko FR-810B)
-![Hot-Air Reflow Station (Hakko FR-810B)](images/hot-air-reflow-station-fr-810b.webp)
+<img src="images/hot-air-reflow-station-fr-810b.webp" alt="Hot-Air Reflow Station (Hakko FR-810B)" width="256">
 
 #### De-soldering Gun (Hakko FR-301)
-![De-soldering Gun (Hakko FR-301)](images/desoldering-gun-fr-301.jpg)
+<img src="images/desoldering-gun-fr-301.jpg" alt="De-soldering Gun (Hakko FR-301)" width="350">
 
 
 ## Soldering
@@ -109,4 +108,8 @@ Also may have:
 After soldering make sure...
 - Turn off soldering iron.
 - Wash hands thoroughly.
+
+### Soldering technique
+
+- 
 
