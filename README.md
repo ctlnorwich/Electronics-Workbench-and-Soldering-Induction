@@ -125,7 +125,7 @@ After soldering or leaving the bench:
 
 ### Thru-Hole Soldering technique
 
-1. Identify the component as a resistor, then insert its leads into two separate holes in the board. Its orientation does not matter.
+1. Insert the leads of the resistor into two separate holes in the board. Its orientation does not matter.
 2. Seat the component close to the board without forcing it. Bend the leads slightly outward on the solder side to hold it in place.
 3. Place the board in the third hand and adjust the clips to hold it steady.
 4. Apply a small amount of flux to the lead and pad.
@@ -148,7 +148,7 @@ After soldering or leaving the bench:
 
 ## 2. Wire-splicing
 
-A linesman's (Western Union) splice joins two wires end-to-end forming a strong mechanical joint good enough that even NASA uses it. In this activity, you will join two pieces of green wire, solder the splice, and insulate it with heat-shrink tubing. 
+A linesman's (Western Union) splice joins two wires end-to-end forming a strong mechanical joint good enough that even NASA uses it. In this activity, you will join two pieces of green wire, solder the splice, and insulate it with heat-shrink tubing using the hot air station. 
 
 ### Linesman's splice technique
 
@@ -165,6 +165,7 @@ A linesman's (Western Union) splice joins two wires end-to-end forming a strong 
 9. Centre the heat-shrink over the cooled splice so it overlaps the insulation at both ends.
 10. Set the hot-air reflow station to the setting specified by the technician. Move the nozzle continuously around the tubing, rotating the wire so it shrinks evenly. Keep the hot-air gun in its holder when not in use.
 11. Return the hot-air gun to its holder and let the tubing cool. Check that it fits snugly and covers all exposed copper.
+12. Strip about 5-10 mm of insulation from each free wire end to expose copper for the continuity test in the next activity.
 
 ### Operating the Hot-Air Station
 
@@ -181,7 +182,22 @@ A linesman's (Western Union) splice joins two wires end-to-end forming a strong 
 - If the heat-shrink shrinks unevenly, keep the nozzle moving and rotate the wire. If it scorches, stop and ask a technician to check the station setting.
 - If any copper remains exposed or strands are loose, replace the heat-shrink or redo the splice before using it.
 
-## 3. 
+## 3. Multimeter testing
+
+
+A multimeter measures electrical properties such as voltage, current, resistance and most importantly continuity (this will be 90% of what you use it for). In this activity, You are going to measure the soldered resistor's resistance and check that the wire splice is electrically continuous using the bench multimeter.
+
+### Operating the Multimeter
+
+- Switch on the bench multimeter using the power button on the front panel.
+- Connect the black test lead to the LO input and the red test lead to the HI input. Do not use the current input for these tests.
+
+### Multimeter Procedure
+
+1. Let the soldered joints cool before testing.
+2. Measure the resistor: press the Ω key and confirm resistance mode (Ω) near the bottom of the display. Touch one probe to each resistor lead and record the displayed resistance.
+3. Test the splice: press the Ω key again to select continuity. Confirm the continuity or buzzer symbol near the bottom of the display, then touch one probe to the exposed copper at each free wire end. A beep indicates a continuous path through the splice.
+4. When finished, switch off the multimeter and return the test leads to their holder.
 
 
 
