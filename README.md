@@ -93,7 +93,7 @@ Also may have:
 
 # Induction Activities
 
-## 1. Thru-Hole Soldering
+## 1. Thru-Hole Soldering Activity
 
 Through-hole soldering is joining components to a PCB by passing their leads through holes and soldering them to pads. In this activity you will solder a resistor to a matrixboard/protoboard.
 
@@ -146,7 +146,7 @@ After soldering or leaving the bench:
 - Avoid heating a pad for too long you may damage it. Let it cool before trying again, and ask for help if it still will not wet.
 
 
-## 2. Wire-splicing
+## 2. Wire-splicing Activity
 
 A linesman's (Western Union) splice joins two wires end-to-end forming a strong mechanical joint good enough that even NASA uses it. In this activity, you will join two pieces of green wire, solder the splice, and insulate it with heat-shrink tubing using the hot air station. 
 
@@ -182,10 +182,9 @@ A linesman's (Western Union) splice joins two wires end-to-end forming a strong 
 - If the heat-shrink shrinks unevenly, keep the nozzle moving and rotate the wire. If it scorches, stop and ask a technician to check the station setting.
 - If any copper remains exposed or strands are loose, replace the heat-shrink or redo the splice before using it.
 
-## 3. Multimeter testing
+## 3. Multimeter Testing Activity
 
-
-A multimeter measures electrical properties such as voltage, current, resistance and most importantly continuity (this will be 90% of what you use it for). In this activity, You are going to measure the soldered resistor's resistance and check that the wire splice is electrically continuous using the bench multimeter.
+A multimeter measures electrical properties such as voltage, current, resistance and most importantly continuity (this will be 90% of what you use it for). In this activity, you are going to measure the soldered resistor's resistance and check that the wire splice is electrically continuous using the bench multimeter.
 
 ### Operating the Multimeter
 
@@ -198,6 +197,29 @@ A multimeter measures electrical properties such as voltage, current, resistance
 2. Measure the resistor: press the Ω key and confirm resistance mode (Ω) near the bottom of the display. Touch one probe to each resistor lead and record the displayed resistance.
 3. Test the splice: press the Ω key again to select continuity. Confirm the continuity or buzzer symbol near the bottom of the display, then touch one probe to the exposed copper at each free wire end. A beep indicates a continuous path through the splice.
 4. When finished, switch off the multimeter and return the test leads to their holder.
+
+### 4. Energising Activity
+
+Energising means applying electrical power to a load. In this activity, use the bench power supply to light a red LED connected in series with a 220 Ω current-limiting resistor. A red LED typically drops about 2 V; the resistor limits its current and protects it from damage.
+
+### Operating the Bench Power Supply
+
+- The POWER rocker switch turns the supply on and off. This supply has no separate output-enable switch; set the voltage and current controls to zero before connecting the leads.
+- The voltage control sets the output voltage. Set it to about 3 V for this activity; never exceed the workshop limit of 40 V.
+- The current control sets the maximum output current. Its lowest non-zero setting is 100 mA, which is too high to protect a bare LED; the series resistor limits the LED current to about 5 mA.
+
+### Energising Procedure
+
+1. Leave the crocodile clips disconnected from the LED. Switch on the supply using the POWER rocker, then turn the voltage and current controls fully to zero.
+2. Insert the supply leads into the front red (+) and black (-) output terminals.
+3. Connect the red crocodile clip through the 220 Ω resistor to the LED's longer leg (anode). Connect the LED's shorter leg (cathode, marked by the flat edge of its body) to the black crocodile clip. Keep the clips from touching each other.
+4. Set the voltage control first to about 3 V, leaving the current control at zero.
+5. Raise the current control to its lowest non-zero setting (100 mA). The series resistor limits the actual LED current to about 5 mA, so the 100 mA limit is not the LED's operating current.
+6. The LED should light. Do not leave it powered unattended.
+7. When finished, turn both controls to zero, switch off the supply using the POWER rocker, then disconnect the LED and supply leads.
+
+
+
 
 
 
