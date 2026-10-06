@@ -1,6 +1,48 @@
 # Electronics Workbench and Soldering Induction
 This session is an induction to using the electronics workbenches in the CTL. It covers the health and safety aspects and most basic techniques of using soldering tools, bench power supply and multi-meter safely.
 
+## Contents
+
+- [Electronics Workbench and Soldering Induction](#electronics-workbench-and-soldering-induction)
+  - [Contents](#contents)
+  - [Health and Safety](#health-and-safety)
+    - [Bench Rules](#bench-rules)
+    - [Allergies Check](#allergies-check)
+    - [Hot-tool Safety.](#hot-tool-safety)
+    - [Chemical Safety](#chemical-safety)
+    - [Electronics Safety](#electronics-safety)
+  - [Equipment and Tools Overview](#equipment-and-tools-overview)
+      - [Magnification lens and spot light](#magnification-lens-and-spot-light)
+      - [Bench Multimeter (Voltcraft VC-7055BT)](#bench-multimeter-voltcraft-vc-7055bt)
+      - [Oscilloscope (Voltcraft DSO-1102D)](#oscilloscope-voltcraft-dso-1102d)
+      - [Bench Power Supply (Voltcraft PPS-13610)](#bench-power-supply-voltcraft-pps-13610)
+      - [Signal Generator (Voltcraft FG-1302)](#signal-generator-voltcraft-fg-1302)
+      - [Wire solder tip cleaner (Hakko 599B)](#wire-solder-tip-cleaner-hakko-599b)
+    - [On each of the 2 soldering stations:](#on-each-of-the-2-soldering-stations)
+      - [Refillable Flux Pen](#refillable-flux-pen)
+      - [Third Hand (Omnifixo)](#third-hand-omnifixo)
+      - [Glass-fibre Heat-proof brazing mat](#glass-fibre-heat-proof-brazing-mat)
+      - [Soldering Iron (Hakko FX-951)](#soldering-iron-hakko-fx-951)
+      - [Solder Dispenser (Weller) with Lead-Free Solder (0.7 or 1.2mm2 gauge)](#solder-dispenser-weller-with-lead-free-solder-07-or-12mm2-gauge)
+      - [Hot-Air Reflow Station (Hakko FR-810B)](#hot-air-reflow-station-hakko-fr-810b)
+      - [De-soldering Gun (Hakko FR-301)](#de-soldering-gun-hakko-fr-301)
+- [Induction Activities](#induction-activities)
+  - [1. Thru-Hole Soldering Activity](#1-thru-hole-soldering-activity)
+    - [Operating the Soldering Iron](#operating-the-soldering-iron)
+    - [Soldering Procedure](#soldering-procedure)
+    - [Thru-Hole Soldering technique](#thru-hole-soldering-technique)
+    - [Soldering Troubleshooting](#soldering-troubleshooting)
+  - [2. Wire-splicing Activity](#2-wire-splicing-activity)
+    - [Linesman's splice technique](#linesmans-splice-technique)
+    - [Operating the Hot-Air Station](#operating-the-hot-air-station)
+    - [Wire-splicing troubleshooting](#wire-splicing-troubleshooting)
+  - [3. Multimeter Testing Activity](#3-multimeter-testing-activity)
+    - [Operating the Multimeter](#operating-the-multimeter)
+    - [Multimeter Procedure](#multimeter-procedure)
+  - [4. Energising Activity](#4-energising-activity)
+    - [Operating the Bench Power Supply](#operating-the-bench-power-supply)
+    - [Energising Procedure](#energising-procedure)
+
 ## Health and Safety
 
 There is a substantial risk to person and property at an electronics workbench when not acting with caution. The fire risk is two fold from hot-tool and electrical sources and you can easily burn, electrocute or even slowly poison yourself. 
