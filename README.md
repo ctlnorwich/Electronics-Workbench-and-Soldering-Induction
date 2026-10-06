@@ -125,7 +125,7 @@ After soldering or leaving the bench:
 
 ### Thru-Hole Soldering technique
 
-1. Check the component value and orientation, then insert its leads through the correct PCB holes.
+1. Identify the component as a resistor, then insert its leads into two separate holes in the board. Its orientation does not matter.
 2. Seat the component close to the board without forcing it. Bend the leads slightly outward on the solder side to hold it in place.
 3. Place the board in the third hand and adjust the clips to hold it steady.
 4. Apply a small amount of flux to the lead and pad.
@@ -134,7 +134,7 @@ After soldering or leaving the bench:
 7. Remove the solder wire first, then the iron. Keep the component still until the joint has solidified.
 8. Check that the solder wets both the pad and lead, and that there are no gaps, bridges to nearby pads, or loose component leads. Add a bit more flux, reheat and add a little solder if needed.
 9. After the joint has cooled, trim excess lead with flush cutters. Hold the offcut so it cannot fly away.
-10. Repeat for the remaining leads, then check the connections for shorts with a multimeter.
+10. Repeat for the remaining lead.
     
 [Watch: Through-hole soldering](https://www.youtube.com/watch?v=DJH7VLGJ4fs)
 
@@ -164,7 +164,15 @@ A linesman's (Western Union) splice joins two wires end-to-end forming a strong 
 8. Remove the solder, then the iron. Keep the splice still while it cools, then inspect it and trim any sharp wire ends.
 9. Centre the heat-shrink over the cooled splice so it overlaps the insulation at both ends.
 10. Set the hot-air reflow station to the setting specified by the technician. Move the nozzle continuously around the tubing, rotating the wire so it shrinks evenly. Keep the hot-air gun in its holder when not in use.
-11. Return the hot-air gun to its holder and let the tubing cool. Check that it fits snugly and covers all exposed copper, then verify continuity and check for shorts with a multimeter.
+11. Return the hot-air gun to its holder and let the tubing cool. Check that it fits snugly and covers all exposed copper.
+
+### Operating the Hot-Air Station
+
+- Switch on the hot air station using the station's power switch. Use the preset temperature and airflow; do not change the settings.
+- Place the work on the heat-proof mat and secure it. Remove the handpiece from its holder and press the START/STOP button on the handpiece to start hot-air delivery. Keep the nozzle moving around the heat-shrink and rotate the wire so it shrinks evenly. Keep hot air away from people and flammable materials.
+- When finished, press the START/STOP button again to stop hot-air delivery, then return the handpiece to its holder. This starts the automatic cooling cycle. Leave the station powered on while it cools; do not switch it off while the fan is running.
+- Leave the handpiece in its holder until the station completes its automatic cooldown. Then switch off the station's power switch.
+- In an emergency, do not wait for the cooling cycle; switch off the power immediately if it is safe to do so and alert the technician.
 
 ### Wire-splicing troubleshooting
 
