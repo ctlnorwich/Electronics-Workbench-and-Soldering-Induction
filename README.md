@@ -207,7 +207,7 @@ Energising means applying electrical power to a load. In this activity, use the 
 
 ### Operating the Bench Power Supply
 
-- The POWER rocker switch turns the supply on and off. This supply has no separate output-enable switch; set the voltage and current controls to zero before connecting the leads.
+- The switch turns the supply on and off. This supply has no separate output-enable switch; set the voltage and current controls to zero before connecting the leads.
 - The voltage control sets the output voltage. Set it to about 3 V for this activity; never exceed the workshop limit of 40 V.
 - The current control sets the maximum output current. Its lowest non-zero setting is 100 mA, which is too high to protect a bare LED; the series resistor limits the LED current to about 5 mA.
 
