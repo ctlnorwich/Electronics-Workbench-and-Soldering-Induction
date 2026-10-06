@@ -51,9 +51,6 @@ If so you won't be able to solder today.
 
 On each bench there is:
 
-#### Overhead light
-<img src="images/overhead-light.jpg" alt="Overhead light" width="1000">
-
 #### Magnification lens and spot light
 <img src="images/magnification-lens-spot-light.jpg" alt="Magnification lens and spot light" width="284">
 
